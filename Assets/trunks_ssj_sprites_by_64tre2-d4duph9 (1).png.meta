@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: 5ec032cff4b0dae43a8d6ef1d88ec44b
+timeCreated: 1464712936
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_0
+    21300002: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_1
+    21300004: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_2
+    21300006: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_3
+    21300008: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_4
+    21300010: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_5
+    21300012: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_6
+    21300014: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_7
+    21300016: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_8
+    21300018: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_9
+    21300020: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_10
+    21300022: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_11
+    21300024: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_12
+    21300026: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_13
+    21300028: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_14
+    21300030: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_15
+    21300032: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_16
+    21300034: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_17
+    21300036: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_18
+    21300038: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_19
+    21300040: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_20
+    21300042: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_21
+    21300044: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_22
+    21300046: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_23
+    21300048: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_24
+    21300050: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_25
+    21300052: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 288
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 288
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 281
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 267
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 226
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 226
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 226
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 226
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 231
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 18.5}
+        - {x: -19.5, y: 16.5}
+        - {x: -31.5, y: -11.5}
+        - {x: -31.5, y: -18.5}
+        - {x: 31.5, y: -18.5}
+        - {x: 31.5, y: 18.5}
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 231
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 18}
+        - {x: -16.5, y: 9}
+        - {x: -31.5, y: -11}
+        - {x: -31.5, y: -18}
+        - {x: 31.5, y: -18}
+        - {x: 31.5, y: 18}
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 214
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 214
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 209
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 163
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 2}
+        - {x: 30.5, y: 7}
+        - {x: 24.5, y: 20}
+        - {x: 0.5, y: 24}
+        - {x: -31.5, y: 24}
+        - {x: -31.5, y: -24}
+        - {x: 8.5, y: -24}
+        - {x: 23.5, y: -18}
+        - {x: 31.5, y: -14}
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 163
+        width: 64
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: -48}
+        - {x: 64, y: -48}
+        - {x: 64, y: -25}
+        - {x: 61, y: -5}
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 147
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 147
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 148
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 147
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 84
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -36}
+        - {x: -7.5, y: -36}
+        - {x: 27.5, y: 25}
+        - {x: 27.5, y: 36}
+        - {x: 4.5, y: 36}
+        - {x: -27.5, y: 31}
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 29}
+        - {x: -14.5, y: 29}
+        - {x: -18.5, y: 28}
+        - {x: -29.5, y: 7}
+        - {x: -29.5, y: -12}
+        - {x: -10.5, y: -29}
+        - {x: 14.5, y: -29}
+        - {x: 27.5, y: -18}
+        - {x: 29.5, y: -14}
+        - {x: 29.5, y: 8}
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 82
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 23, z: 11, w: 15}
+      outline:
+      - - {x: -26.5, y: -24}
+        - {x: -11.5, y: -30}
+        - {x: 6.5, y: -32}
+        - {x: 26.5, y: -32}
+        - {x: 26.5, y: 18}
+        - {x: 24.5, y: 26}
+        - {x: 17.5, y: 32}
+        - {x: 4.5, y: 32}
+        - {x: -26.5, y: 20}
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 27.5}
+        - {x: -9, y: 27.5}
+        - {x: -17, y: 21.5}
+        - {x: -17, y: -24.5}
+        - {x: -16, y: -27.5}
+        - {x: 15, y: -27.5}
+        - {x: 17, y: -21.5}
+        - {x: 17, y: 8.5}
+        - {x: 10, y: 22.5}
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 28}
+        - {x: -17, y: 23}
+        - {x: -17, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    - name: trunks_ssj_sprites_by_64tre2-d4duph9 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 30}
+        - {x: -17, y: -30}
+        - {x: 16, y: -30}
+        - {x: 17, y: -28}
+        - {x: 17, y: 22}
+        - {x: 12, y: 30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
